@@ -7,6 +7,9 @@ The participants were asked to use their skills with image recognition to find a
 ## Demo Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/QrRokLO14is/0.jpg)](http://www.youtube.com/watch?v=QrRokLO14is "Handwritten Text Recognition")
 
+## Dataset:
+* To use test_iam_dataset.ipynb in `src/utils/`, create credentials.json using credentials.json.example and editing the appropriate field. The username and password can be obtained from http://www.fki.inf.unibe.ch/DBs/iamDB/iLogin/index.php.
+
 ## Steps to Reproduce
 1. Clone the repository to your machine.
 ```bash 
