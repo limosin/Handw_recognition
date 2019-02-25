@@ -1,5 +1,5 @@
 # Handw_recognition
-This repository contains the code of our submission for [Accenture Digital Challenge.](https://www.hackerearth.com/challenges/hackathon/accenture-imagesing/)
+This repository contains the code of our submission for [Accenture Digital Challenge.](https://www.hackerearth.com/challenges/hackathon/accenture-imagesing/). Other contributor is [Ashutosh Sancheti](https://www.linkedin.com/in/ashutosh-sancheti-852b77177/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BVOKLProtS%2B%2BxjPnIAH%2BHDA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=uUoyQDHLSLCG2Y1bUsnGrg%3D%3D).
 
 ## Introduction
 The participants were asked to use their skills with image recognition to find an innovative solution based on artificial intelligence able to recognize hand written texts and manuscripts (at least in block letters) in latin alphabet and letters.
