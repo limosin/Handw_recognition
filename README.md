@@ -20,7 +20,7 @@ git clone https://github.com/limosin/Handw_recognition`
 conda env create -f environment.yml
 ```
 3. Download the pretrained weights from this [link](https://drive.google.com/open?id=1xxsuQoYfZbG4nJfRMznl7jdcWIvRAWOR).
-4. Extract to '/models' in the main directory.
+4. Extract to '/models' in the main directory(Make this folder if it does not exists).
 5. Now for performing OCR on a 'image_example.jpg', open a terminal in the main directory and enter this command.
 ```bash
 python OCR.py -f <image_example>
