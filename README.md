@@ -13,7 +13,7 @@ The participants were asked to use their skills with image recognition to find a
 ## Steps to Reproduce
 1. Clone the repository to your machine.
 ```bash 
-git clone https://github.com/limosin/Handw_recognition`
+git clone https://github.com/limosin/Handw_recognition
 ```
 2. Setup the virtual environemnt using conda. 
 ```bash
